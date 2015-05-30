@@ -40,7 +40,9 @@ public:
         virtual bool eJovem() const = 0;
         static int getMaisJovem();
         string getNome() const;
-
+        int getIdade() const;
+        Veterinario getVeterinario() const;
+        void setVeterinario(Veterinario *vet);
 };
 
 
@@ -86,6 +88,8 @@ public:
         bool removeVeterinario(string nomeV);
         bool operator < (Zoo& zoo2) const;
         int numAnimais() const;
+        vector<Animal *> getAnimais();
+        int numVeterinarios() const;
 };
 
 

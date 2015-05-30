@@ -71,7 +71,7 @@ void test_d_verificarAnimalJovem() {
 }
 
 void test_e_alocarVeterinarios() {
-/*
+
 	Zoo z1;
 
 	Animal *a1=new Cao("kurika",10,"estrela");  //nome, idade, raça
@@ -94,12 +94,12 @@ void test_e_alocarVeterinarios() {
 
 	ASSERT_EQUAL(5, z1.numAnimais());
 	ASSERT_EQUAL(3, z1.numVeterinarios());
-	ASSERT_EQUAL("kurika, 10, Rui Silva, 1234, estrela", a1->imprime());*/
+	ASSERT_EQUAL("kurika, 10, Rui Silva, 1234, estrela", a1->imprime());
 }
 
 void test_f_removerVeterinario() {
 
-/*	Zoo z1;
+	Zoo z1;
 
 	Animal *a1=new Cao("kurika",10,"estrela");  //nome, idade, raça
 	Animal *a2=new Morcego("bobo",2,70,2);  //nome, idade, velocidade_maxima, altura_maxima
@@ -125,11 +125,11 @@ void test_f_removerVeterinario() {
 
 	z1.removeVeterinario("Rui Silva");
 
-	ASSERT_EQUAL("kurika, 10, Artur Costa, 3542, estrela", a1->imprime());*/
+	ASSERT_EQUAL("kurika, 10, Artur Costa, 3542, estrela", a1->imprime());
 }
 
 void test_g_compararZoos() {
-	/*Zoo z1;
+	Zoo z1;
 
 	Animal *a1=new Cao("kurika",10,"estrela");  //nome, idade, raça
 	Animal *a2=new Morcego("bobo",2,70,2);  //nome, idade, velocidade_maxima, altura_maxima
@@ -155,7 +155,7 @@ void test_g_compararZoos() {
 	z2.adicionaAnimal(b3);
 	z2.adicionaAnimal(b4);
 
-	ASSERT_EQUAL(true, z2 < z1);*/
+	ASSERT_EQUAL(true, z2 < z1);
 }
 
 
