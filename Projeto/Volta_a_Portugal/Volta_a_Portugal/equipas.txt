@@ -1,0 +1,39 @@
+Equipa:
+Gloriosos
+Portugal
+Ciclistas:
+1 Pedro Raul
+2 Vasco Cardoso
+3 Maria Vaz
+4 Raul Moreira
+5 Rui Silva
+Staff:
+Equipa:
+Os Amendoins
+Portugal
+Ciclistas:
+6 Rui Silvio
+7 Helena Almeida
+8 Catarina Tavares
+9 Mario Costa
+Staff:
+Equipa:
+Xau
+Portugal
+Ciclistas:
+10 Tatiana Franca
+11 Filipe Vaz
+12 Tiago Jose
+13 Helio Gouveia
+14 Rosa Mota
+Staff:
+Equipa:
+Compostela
+Espanha
+Ciclistas:
+15 Guilherme Alexandre
+16 Flavia Antunes
+17 Joao Coutinho
+18 Marta Fragoso
+19 Jose Maria
+Staff:

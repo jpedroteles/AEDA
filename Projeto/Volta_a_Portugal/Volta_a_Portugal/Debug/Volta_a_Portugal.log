@@ -1,0 +1,17 @@
+﻿Build started 29/12/2014 01:21:29.
+     1>Project "C:\Users\JoséPedro\Desktop\Volta_a_Portugal(antes)\Volta_a_Portugal\Volta_a_Portugal.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\JoséPedro\Desktop\Volta_a_Portugal(antes)\Debug\Volta_a_Portugal_2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\JoséPedro\Desktop\Volta_a_Portugal(antes)\Debug\Volta_a_Portugal_2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\JoséPedro\Desktop\Volta_a_Portugal(antes)\Debug\Volta_a_Portugal_2.lib" /MACHINE:X86 Debug\Equipa.obj
+         Debug\Etapa.obj
+         Debug\MembroEquipa.obj
+         Debug\main.obj
+         Debug\Patrocinio.obj
+         Debug\Premio.obj
+         "Debug\Tempo-classificacao.obj"
+         Debug\Volta.obj
+         Volta_a_Portugal.vcxproj -> C:\Users\JoséPedro\Desktop\Volta_a_Portugal(antes)\Debug\Volta_a_Portugal_2.exe
+     1>Done Building Project "C:\Users\JoséPedro\Desktop\Volta_a_Portugal(antes)\Volta_a_Portugal\Volta_a_Portugal.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.85
